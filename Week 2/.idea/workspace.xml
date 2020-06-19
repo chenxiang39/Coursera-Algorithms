@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f49025c-3d4f-4658-a934-9504a783aa52" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SAVeCUR1Jsz8HPucvKfY2w1XrH" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DateComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DateComparable" />
+      <module name="Week 2" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/QueuesTestResource/duplicates.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DateComparable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f49025c-3d4f-4658-a934-9504a783aa52" name="Default Changelist" comment="" />
+      <created>1571006479864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571006479864</updated>
+      <workItem from="1571006481036" duration="18337000" />
+      <workItem from="1571536141307" duration="32565000" />
+      <workItem from="1571716030221" duration="26862000" />
+      <workItem from="1572590993750" duration="11198000" />
+      <workItem from="1573113339387" duration="11000" />
+      <workItem from="1573113496592" duration="1070000" />
+      <workItem from="1573197873053" duration="91000" />
+      <workItem from="1573445489715" duration="12000" />
+      <workItem from="1573450423069" duration="10000" />
+      <workItem from="1573450468463" duration="198000" />
+      <workItem from="1573450905884" duration="198000" />
+      <workItem from="1573451193100" duration="2538000" />
+      <workItem from="1573542177785" duration="1506000" />
+      <workItem from="1574568175314" duration="42000" />
+      <workItem from="1574655172588" duration="172000" />
+      <workItem from="1575164618368" duration="76000" />
+      <workItem from="1575165686901" duration="1445000" />
+      <workItem from="1575184369467" duration="3000" />
+      <workItem from="1575250661912" duration="37000" />
+      <workItem from="1575251901977" duration="37000" />
+      <workItem from="1575252147866" duration="20000" />
+      <workItem from="1575252331980" duration="1024000" />
+      <workItem from="1575265335531" duration="100000" />
+      <workItem from="1576573361086" duration="4464000" />
+      <workItem from="1579155652122" duration="16000" />
+      <workItem from="1579248192185" duration="1823000" />
+      <workItem from="1579833806425" duration="2458000" />
+      <workItem from="1581319505828" duration="73000" />
+      <workItem from="1581319679346" duration="14000" />
+      <workItem from="1581320050938" duration="112000" />
+      <workItem from="1581552619840" duration="441000" />
+      <workItem from="1582081914105" duration="971000" />
+      <workItem from="1582597058815" duration="648000" />
+      <workItem from="1584585629326" duration="613000" />
+      <workItem from="1587671075984" duration="658000" />
+      <workItem from="1589493583764" duration="40000" />
+      <workItem from="1589493807853" duration="2047000" />
+      <workItem from="1589589681722" duration="84000" />
+      <workItem from="1590042266735" duration="1000" />
+      <workItem from="1590229477148" duration="175000" />
+      <workItem from="1590373665853" duration="113000" />
+      <workItem from="1590373790898" duration="4000" />
+      <workItem from="1590383047096" duration="607000" />
+      <workItem from="1590743715073" duration="59000" />
+      <workItem from="1590792632587" duration="1152000" />
+      <workItem from="1590794790566" duration="250000" />
+      <workItem from="1590812873659" duration="15000" />
+      <workItem from="1592439323180" duration="68000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/QueueOfStrings.java</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

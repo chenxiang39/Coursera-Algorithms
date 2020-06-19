@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f068ceb6-fd80-4470-b9ab-1e95d35283b5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TH7puOMsjnDOzU7qUW7zISg0QL" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Iib" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ComparatorEX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparatorEX" />
+      <module name="Week 3" />
+      <option name="PROGRAM_PARAMETERS" value="./collinearSource/rs1423.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ComparatorEX" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f068ceb6-fd80-4470-b9ab-1e95d35283b5" name="Default Changelist" comment="" />
+      <created>1573105352506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573105352506</updated>
+      <workItem from="1573105354300" duration="5830000" />
+      <workItem from="1573113135174" duration="15826000" />
+      <workItem from="1573454958319" duration="43387000" />
+      <workItem from="1574053835639" duration="28924000" />
+      <workItem from="1574649763705" duration="30680000" />
+      <workItem from="1575265556658" duration="9000" />
+      <workItem from="1575441871782" duration="363000" />
+      <workItem from="1575442248454" duration="269000" />
+      <workItem from="1575442540198" duration="63000" />
+      <workItem from="1575442620033" duration="75000" />
+      <workItem from="1575443176271" duration="259000" />
+      <workItem from="1575476728319" duration="443000" />
+      <workItem from="1575849386079" duration="20000" />
+      <workItem from="1575849437011" duration="295000" />
+      <workItem from="1575865791685" duration="5000" />
+      <workItem from="1575868861634" duration="689000" />
+      <workItem from="1576377405379" duration="5034000" />
+      <workItem from="1580286373257" duration="22000" />
+      <workItem from="1580286465217" duration="148000" />
+      <workItem from="1580286939308" duration="779000" />
+      <workItem from="1581324954943" duration="12000" />
+      <workItem from="1583774643647" duration="394000" />
+      <workItem from="1584398025163" duration="485000" />
+      <workItem from="1584585645511" duration="1264000" />
+      <workItem from="1587671045246" duration="34000" />
+      <workItem from="1589494143342" duration="856000" />
+      <workItem from="1589589686526" duration="1000" />
+      <workItem from="1589591776437" duration="8000" />
+      <workItem from="1589874510765" duration="694000" />
+      <workItem from="1589875314735" duration="682000" />
+      <workItem from="1589949415503" duration="440000" />
+      <workItem from="1590042262123" duration="1161000" />
+      <workItem from="1590229031818" duration="1144000" />
+      <workItem from="1590373681479" duration="96000" />
+      <workItem from="1590373800528" duration="950000" />
+      <workItem from="1590383024975" duration="613000" />
+      <workItem from="1590694595941" duration="598000" />
+      <workItem from="1590812862294" duration="6000" />
+      <workItem from="1590914616084" duration="21000" />
+      <workItem from="1590914965253" duration="26000" />
+      <workItem from="1590995961742" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeSort.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
