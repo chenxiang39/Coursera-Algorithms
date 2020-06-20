@@ -90,6 +90,42 @@ public class EdgeWeightedGraph{
             }
         }
     }
+    //运行时间：O(E * log2(E))级别，额外空间O（E）级别（最坏情况）
+    public class LazyPrimMST{
+        private boolean[] marked;   //MST vertices
+        private Queue<Edge> mst;    //MST edges
+        private MinPQ<Edge> pq;     //PQ of edges
+        public LazyPrimMST(EdgeWeightedGraph G){
+            pq = new MinPQ<Edge>();
+            mst = new Queue<Edge>();
+            marked = new boolean[G.V()];
+            visit(G,0);         //从第一个点开始
+            while (!pq.isEmpty()){
+                Edge e = pq.delMin();       //repeatedly delete the min weight edge e = v-w from PQ
+                int v = e.either();
+                int w = e.other(v);
+                if (marked[v] && marked[w]){
+                    continue;               // ignore if both endpoints in T
+                }
+                mst.enqueue(e);             //add edge e to tree
+                if (!marked[v]){            //add v or w to tree
+                    visit(G,v);
+                }
+                if (!marked[w]){
+                    visit(G,w);
+                }
+            }
+        }
+        //标记顶点v并将所有连接v和未被标记顶点的边加入pq
+        private void visit(EdgeWeightedGraph G, int v){
+            marked[v] = true;
+            for (Edge e : G.adj(v)){
+                if(!marked[e.other(v)]){
+                    pq.insert(e);
+                }
+            }
+        }
+    }
     public static void main(String[] args){
 //        In in = new In(args[0]);
 //        EdgeWeightedGraph G = new EdgeWeightedGraph(in);
