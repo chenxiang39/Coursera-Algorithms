@@ -52,7 +52,14 @@ public class EdgeWeightedGraph{
                 return v;
             }
         }
-        public double weight(){
+        /**
+         * Returns the sum of the edge weights in a minimum spanning tree (or forest).
+         * @return the sum of the edge weights in a minimum spanning tree (or forest)
+         */
+        public double weight() {
+            double weight = 0.0;
+            for (Edge e : edges())
+                weight += e.weight();
             return weight;
         }
         public int compareTo(Edge that){
