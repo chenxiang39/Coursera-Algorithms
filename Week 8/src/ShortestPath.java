@@ -90,9 +90,9 @@ public class ShortestPath {
                 distTo[v] = Double.POSITIVE_INFINITY;       //初始化时，将所有点距离初始点的距离都设置成无限大
             }
             distTo[s] = 0.0;        //与初始点的距离为0
-            pq.insert(s, 0.0);
+            pq.insert(s, 0.0);      //存放点及离初始点的距离
             while (!pq.isEmpty()){
-                int v = pq.delMin();        //relax vertices in order od distance from s
+                int v = pq.delMin();        //relax vertices in order of distance from s
                 for (DirectedEdge e : G.adj(v)){
                     relax(e);
                 }
