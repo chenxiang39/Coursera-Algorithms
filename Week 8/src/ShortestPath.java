@@ -78,6 +78,7 @@ public class ShortestPath {
         }
     }
     //Dijkstra算法（最短路径）（无环加权有向图中可以使用拓扑序列来优化点的顺序，详见p427）
+    //负的权重环图可以使用贝尔曼算法，详见p437
     public class DijkstraSP{
         private DirectedEdge[] edgeTo;
         private double[] distTo;
