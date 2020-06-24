@@ -82,7 +82,7 @@ public class ShortestPath {
     public class DijkstraSP{
         private DirectedEdge[] edgeTo;
         private double[] distTo;
-        private IndexMinPQ<Double> pq;          //查看p422
+        private IndexMinPQ<Double> pq;          //查看p421,422
         public DijkstraSP(EdgeWeightedDigraph G, int s){
             edgeTo = new DirectedEdge[G.V()];
             distTo = new double[G.V()];
