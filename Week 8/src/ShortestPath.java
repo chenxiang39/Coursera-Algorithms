@@ -77,7 +77,7 @@ public class ShortestPath {
             return V;
         }
     }
-    //Dijkstra算法（最短路径）
+    //Dijkstra算法（最短路径）（无环加权有向图中可以使用拓扑序列来优化点的顺序，详见p427）
     public class DijkstraSP{
         private DirectedEdge[] edgeTo;
         private double[] distTo;

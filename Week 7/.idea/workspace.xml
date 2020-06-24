@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ba5dba1-fb5f-43e9-8c15-d54c818a9188" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Week 3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 8/src/Longest paths in DAGs application.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week 8/src/ShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/src/ShortestPath.java" afterDir="false" />
     </list>
@@ -81,7 +80,7 @@
       <workItem from="1592368430054" duration="614000" />
       <workItem from="1592437046644" duration="1959000" />
       <workItem from="1592811980972" duration="605000" />
-      <workItem from="1592813730539" duration="1581000" />
+      <workItem from="1592813730539" duration="2184000" />
     </task>
     <servers />
   </component>
