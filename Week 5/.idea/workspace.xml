@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba0d1dc1-5d32-4094-bd16-432551ae513d" name="Default Changelist" comment="" />
+    <list default="true" id="ba0d1dc1-5d32-4094-bd16-432551ae513d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 9/src/String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week 5/KdTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week 5/KdTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week 5/KdTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week 5/KdTree.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +24,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1by3XBACD4cK9dTmpKKC3ZTayYS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
@@ -45,10 +56,10 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="NearestNeighborVisualizer" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NearestNeighborVisualizer" />
+    <configuration name="RangeSearchVisualizer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RangeSearchVisualizer" />
       <module name="Week 5" />
-      <option name="PROGRAM_PARAMETERS" value="./kdtree/input0.txt" />
+      <option name="PROGRAM_PARAMETERS" value="./kdtree/circle1000.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,10 +89,22 @@
       <workItem from="1592114679269" duration="1484000" />
       <workItem from="1592447114764" duration="602000" />
       <workItem from="1592512876930" duration="6000" />
+      <workItem from="1593238239218" duration="1191000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
