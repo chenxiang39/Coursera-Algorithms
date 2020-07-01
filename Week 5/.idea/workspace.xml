@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba0d1dc1-5d32-4094-bd16-432551ae513d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 9/src/String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week 5/KdTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week 5/KdTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week 5/KdTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week 5/KdTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 10/src/StringST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 6/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +88,7 @@
       <workItem from="1592447114764" duration="602000" />
       <workItem from="1592512876930" duration="6000" />
       <workItem from="1593238239218" duration="1191000" />
+      <workItem from="1593577307885" duration="602000" />
     </task>
     <servers />
   </component>
@@ -101,7 +100,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
