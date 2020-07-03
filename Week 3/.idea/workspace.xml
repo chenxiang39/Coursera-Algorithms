@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f068ceb6-fd80-4470-b9ab-1e95d35283b5" name="Default Changelist" comment="" />
+    <list default="true" id="f068ceb6-fd80-4470-b9ab-1e95d35283b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Week 10/src/TrieST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 10/src/TrieST.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +123,7 @@
       <workItem from="1591510393992" duration="16000" />
       <workItem from="1592439312355" duration="4000" />
       <workItem from="1592812655437" duration="19000" />
+      <workItem from="1593653351688" duration="4000" />
     </task>
     <servers />
   </component>
@@ -132,7 +135,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

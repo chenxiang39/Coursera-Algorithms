@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2980ff3-6310-4773-8e12-abc139f8f0ee" name="Default Changelist" comment="" />
+    <list default="true" id="b2980ff3-6310-4773-8e12-abc139f8f0ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 9/src/Spell checking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 9/src/Tries performance.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/WeightedQuickUnionUF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/WeightedQuickUnionUF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 10/src/TrieST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 10/src/TrieST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +35,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RWxBcARN7lGXfjUe7O7AP6kGAP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -58,7 +75,7 @@
   </component>
   <component name="RunManager">
     <configuration name="PercolationStats" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
       <module name="Algorithms" />
       <option name="PROGRAM_PARAMETERS" value="./PercolationTestResource/java60.txt" />
       <method v="2">
@@ -114,11 +131,23 @@
       <workItem from="1591608711016" duration="105000" />
       <workItem from="1592466673560" duration="267000" />
       <workItem from="1592466948005" duration="50000" />
+      <workItem from="1593653361795" duration="704000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithms$PercolationStats.ic" NAME="PercolationStats Coverage Results" MODIFIED="1570424118958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

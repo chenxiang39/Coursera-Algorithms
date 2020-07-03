@@ -12,4 +12,11 @@ public class BinarySearch {
         }
         return -1;
     }
+    public static void main(String[] args){
+        int Inte[] ={1,2,3,4,5,6,7,8};
+        BinarySearch a = new BinarySearch();
+        System.out.println(binarySearchImplement(Inte,2));
+        System.out.println(binarySearchImplement(Inte,0));
+        System.out.println(binarySearchImplement(Inte,9));
+    }
 }
