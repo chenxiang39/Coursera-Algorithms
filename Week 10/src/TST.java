@@ -1,5 +1,6 @@
 //Ternary search tries
 public class TST<Value> {
+    private static final int R = 256; //extended ASCII
     private Node root;
     private class Node{
         private Value val;
@@ -28,5 +29,35 @@ public class TST<Value> {
             x.val = val;
         }
         return x;
+    }
+    public boolean contains(String key){
+        return get(key) != null;
+    }
+    public Value get(String key){
+        Node x = get(root, key, 0);
+        if (x == null){
+            return null;
+        }
+        return x.val;       //没有运行数组，不用强制转换
+    }
+    private Node get(Node x, String key, int d){
+        if(x == null){
+            return null;
+        }
+        char c = key.charAt(d);         //第d个字符对应的关键字
+        if(c < x.c){
+            //没匹配时d不增加，直接遍历左右子树
+            return get(x.left, key,d);
+        }
+        else if (c > x.c){
+            return get(x.right,key,d);
+        }
+        else if (d < key.length() - 1){
+            //匹配时d增加，遍历中子树
+            return get(x.mid,key,d + 1);
+        }
+        else {
+            return x;
+        }
     }
 }

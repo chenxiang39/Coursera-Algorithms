@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ba5dba1-fb5f-43e9-8c15-d54c818a9188" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Week 8/src/Dijkstra algorithms.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 10/src/TST performance summary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 10/src/TST with R^2 performance summary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 10/src/TST with R^2 root.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 10/src/TST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 10/src/TST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 6/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +84,7 @@
       <workItem from="1592811980972" duration="605000" />
       <workItem from="1592813730539" duration="2184000" />
       <workItem from="1593078948785" duration="340000" />
+      <workItem from="1593760156295" duration="599000" />
     </task>
     <servers />
   </component>
