@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2980ff3-6310-4773-8e12-abc139f8f0ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 9/src/Spell checking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 9/src/Tries performance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 10/src/WX20200706-132036@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/WeightedQuickUnionUF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/WeightedQuickUnionUF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 10/src/TrieST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 10/src/TrieST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 10/out/production/Week 10/Substring_search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 10/src/Substring_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 10/src/Substring_search.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,9 +68,9 @@
   </component>
   <component name="RunManager">
     <configuration name="PercolationStats" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
       <module name="Algorithms" />
-      <option name="PROGRAM_PARAMETERS" value="./PercolationTestResource/java60.txt" />
+      <option name="PROGRAM_PARAMETERS" value="./PercolationTestResource/heart25.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,6 +125,7 @@
       <workItem from="1592466673560" duration="267000" />
       <workItem from="1592466948005" duration="50000" />
       <workItem from="1593653361795" duration="704000" />
+      <workItem from="1594096219821" duration="809000" />
     </task>
     <servers />
   </component>
@@ -143,7 +137,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
