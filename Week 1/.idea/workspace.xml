@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2980ff3-6310-4773-8e12-abc139f8f0ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Week 10/src/WX20200706-132036@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 10/out/production/Week 10/Substring_search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 10/src/Substring_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 10/src/Substring_search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 10/src/WX20200706-132036@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,6 +129,16 @@
       <workItem from="1592466948005" duration="50000" />
       <workItem from="1593653361795" duration="704000" />
       <workItem from="1594096219821" duration="809000" />
+      <workItem from="1594847551671" duration="702000" />
+      <workItem from="1595379339529" duration="598000" />
+      <workItem from="1595409226450" duration="4000" />
+      <workItem from="1595900663484" duration="7000" />
+      <workItem from="1596015246827" duration="9000" />
+      <workItem from="1596015264017" duration="2000" />
+      <workItem from="1596147641834" duration="13000" />
+      <workItem from="1596147700296" duration="149000" />
+      <workItem from="1596148362905" duration="10000" />
+      <workItem from="1597000239595" duration="617000" />
     </task>
     <servers />
   </component>

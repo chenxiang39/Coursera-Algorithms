@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ba5dba1-fb5f-43e9-8c15-d54c818a9188" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Week 10/src/TST performance summary.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 10/src/TST with R^2 performance summary.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 10/src/TST with R^2 root.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 10/src/TST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 10/src/TST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 10/src/WX20200706-132036@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +87,16 @@
       <workItem from="1592813730539" duration="2184000" />
       <workItem from="1593078948785" duration="340000" />
       <workItem from="1593760156295" duration="599000" />
+      <workItem from="1594883849071" duration="14000" />
+      <workItem from="1594946207451" duration="555000" />
+      <workItem from="1594965612681" duration="9000" />
+      <workItem from="1594965646264" duration="144000" />
+      <workItem from="1594965798302" duration="601000" />
+      <workItem from="1595022890236" duration="14000" />
+      <workItem from="1595024007736" duration="9000" />
+      <workItem from="1595376162362" duration="18000" />
+      <workItem from="1596079173938" duration="597000" />
+      <workItem from="1596314346621" duration="635000" />
     </task>
     <servers />
   </component>

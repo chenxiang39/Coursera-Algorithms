@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f068ceb6-fd80-4470-b9ab-1e95d35283b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Week 10/src/TrieST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 10/src/TrieST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 10/src/WX20200706-132036@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,6 +130,17 @@
       <workItem from="1592439312355" duration="4000" />
       <workItem from="1592812655437" duration="19000" />
       <workItem from="1593653351688" duration="4000" />
+      <workItem from="1594847297672" duration="249000" />
+      <workItem from="1594941104664" duration="2000" />
+      <workItem from="1595131716060" duration="600000" />
+      <workItem from="1595205787980" duration="713000" />
+      <workItem from="1595376140029" duration="42000" />
+      <workItem from="1595747299409" duration="575000" />
+      <workItem from="1595747886243" duration="35000" />
+      <workItem from="1595900680830" duration="543000" />
+      <workItem from="1595914668958" duration="7000" />
+      <workItem from="1596182660678" duration="6000" />
+      <workItem from="1596511206457" duration="598000" />
     </task>
     <servers />
   </component>
